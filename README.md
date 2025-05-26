@@ -1,6 +1,6 @@
 # 👨‍💻 Sobre mí
 
-¡Hola! Soy **Martín**, soy Técnico Superior en Desarrollo de Aplicaciones Web y especista en **Inteligencia Artificial y Big Data**. Me apasiona crear soluciones digitales que combinan diseño funcional y el análisis inteligente de datos.
+¡Hola! Soy **Martín**, tengo 22 años y soy Técnico Superior en Desarrollo de Aplicaciones Web y especista en **Inteligencia Artificial y Big Data**. Me apasiona crear soluciones digitales que combinan diseño funcional y el análisis inteligente de datos.
 
 ---
 
